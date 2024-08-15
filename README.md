@@ -1,8 +1,6 @@
 ## Paralex Scrolling Effect
 
-## [Check it out](https://duckduckgo.com)
-
----
+### [Check it out](https://duckduckgo.com)
 
 ## Screenshot
 
