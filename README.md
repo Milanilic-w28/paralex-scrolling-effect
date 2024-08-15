@@ -1,6 +1,6 @@
 ## Paralex Scrolling Effect
 
-### [Check it out](https://duckduckgo.com)
+### [Check it out](https://milanilic-w28.github.io/paralex-scrolling-effect/)
 
 ## Screenshot
 
